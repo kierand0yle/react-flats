@@ -27,9 +27,11 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
+    "dotenv": "^8.1.0",
     "google-map-react": "^1.1.4",
     "js-yaml": "^3.13.1",
     "mixin-deep": "^2.0.1",
+    "path": "^0.12.7",
     "react": "16.2",
     "react-dom": "16.2"
   },
